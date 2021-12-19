@@ -1,4 +1,3 @@
-import { useState, useEffect, Fragment } from 'react';
 import { useSelector, useDispatch } from 'react-redux';
 import { AiFillHeart } from 'react-icons/ai';
 import { removeFavoriteMovie } from '../store/actions/favorite';
