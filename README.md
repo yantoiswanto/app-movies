@@ -1,3 +1,16 @@
+#Tech
+- Reactjs
+- Tailwindcss@3.0.5
+- Redux@4.1.2
+- React Router@6.1.1
+- Redux Thunk@2.4.1
+- React Redux@7.2.6
+- React Icons@4.3.1
+- axios@0.24.0
+- redux devtools extension@2.13.9
+- redux logger@3.0.6
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
